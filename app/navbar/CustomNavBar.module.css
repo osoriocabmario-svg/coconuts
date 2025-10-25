@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  background: #1d1d1b;
+  padding-top: 10;
+  padding-bottom: 10;
+}
+
+.sectionButton {
+  display: flex;
+  color: white;
+  font-weight: bold;
+  margin-left: auto;
+}
